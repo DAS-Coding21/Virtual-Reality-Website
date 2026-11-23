@@ -26,3 +26,33 @@
     font-family: Roboto;
     font-weight: 500;
 }
+
+/* Banner section */
+
+.vr-banner-container {
+    background-image: url(' https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.vr-banner-container-heading {
+    font-size: 36px;
+    color: #ffffff;
+    font-family: Roboto;
+    font-weight: 600;
+    margin-bottom: 10px;
+    padding: 0px;
+}
+
+.vr-banner-container-button {
+    height: 45px;
+    width: 120px;
+    color: #ffffff;
+    background-color: #2563EB;
+    border: 0;
+    border-radius: 6px;
+    font-size: 14px;
+    font-family: Roboto;
+    font-weight: 500;
+    margin: 5px;
+}
