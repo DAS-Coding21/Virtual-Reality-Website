@@ -198,3 +198,73 @@ span {
     font-size: 14px;
     font-weight: 500;
 }
+
+/* Contact Us Section */
+.vr-contact-us-section{
+    background-color: #ffffff;
+}
+
+.vr-img {
+    height: 200px;
+}
+
+/* .vr-contact-us-section {
+    background-color: #222b36;
+} */
+
+.contact-with-us-heading{
+    color: #0f1725;
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: 600;
+    margin: 0px 0px 10px 10px;
+    text-align: center;
+}
+
+.contact-with-us-description{
+    color: #647488;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: 500;
+    margin: 0px 0px 48px 10px;
+    text-align: center;
+}
+
+.send-message-heading{
+    color: #0f1725;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 600;
+    text-align: center;
+    margin: 48px 0px 10px 0px;
+}
+
+.contact-us-form-container label{
+    color: #0f1725;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.contact-us-form-container input{
+    color: #647488;
+    border-radius: 6px;
+    width: 100%;
+    padding: 8px 15px;
+    font-size: 14px;
+    font-family: Roboto;
+    margin-bottom: 10px;
+}
+
+.send-message-button {
+    color: #ffffff;
+    background-color: #2563eb;
+    border-radius: 6px;
+    border: none;
+    width: 100%;
+    padding: 8px 15px;
+    font-size: 14px;
+    font-family: Roboto;
+    margin-top: 10px;
+}
