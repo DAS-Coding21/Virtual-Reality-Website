@@ -123,3 +123,33 @@ span {
     font-weight: 600;
     padding: 10px;
 }
+
+/* Product section  */
+
+.vr-product-section{
+    background-color: #ffffff;
+}
+
+.vr-product-website-heading {
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: 600;
+    margin: 0px 0px 30px 10px;
+    padding: 20px;
+}
+
+.product-img {
+    height: 350px;
+    width: 100%;
+}
+
+.view-button {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 10px 40px;
+    background-color: #1754a1;
+    border: none;
+    border-radius: 5px;
+}
