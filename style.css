@@ -56,3 +56,43 @@
     font-weight: 500;
     margin: 5px;
 }
+
+/* Features section */
+
+.vr-features-section{
+    background-color: #ffffff;
+}
+
+.features-heading {
+    color: #0f1725;
+    font-size: 32px;
+    font-family: Roboto;
+    font-weight: 700;
+    margin: 0px 0px 30px 10px;
+    padding: 0px;
+}
+
+.features-image {
+    height: 60px;
+}
+
+.features-image-heading {
+    color: #1f2933;
+    font-size: 24px;
+    font-family: Roboto;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.features-image-description {
+    color: #7b8794;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: 500;
+}
+
+span {
+    color: #1f2933;
+    font-weight: 600;
+    font-style: italic;
+}
