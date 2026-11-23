@@ -96,3 +96,30 @@ span {
     font-weight: 600;
     font-style: italic;
 }
+
+/* KIT section */
+
+.vr-kit-section {
+    background-color: #f1f5f9;
+}
+
+.vr-kit-section-heading {
+    color: #0f1725;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Roboto;
+    margin: 0px 0px 30px 10px;
+    padding: 0px;
+}
+
+.vr-kit-section-img {
+    height: 230px;
+}
+
+.vr-kit-name {
+    color: #0f1725;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: 600;
+    padding: 10px;
+}
