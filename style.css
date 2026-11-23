@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* Navbar */
+
+.vr-logo {
+    height: 35px;
+    padding-left: 10px;
+}
+
+.navbar-toggler {
+    width: 90px;
+}
+
+.navbar-toggler-icon {
+    height: 26px;
+    width: 26px;
+}
+
+.nav-link {
+    font-size: 14px;
+    font-family: Roboto;
+    font-weight: 500;
+}
