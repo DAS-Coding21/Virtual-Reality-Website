@@ -268,3 +268,40 @@ span {
     font-family: Roboto;
     margin-top: 10px;
 }
+
+/* Trending Blogs Section */
+.trending-blog-section{
+    background-color: #f1f5f9;
+}
+
+.trending-blog-section-heading {
+    color: #1f2933;
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: 600;
+    margin: 0px 0px 30px 10px;
+    padding: 0px;
+}
+
+.containt-box-heading {
+    color: #959ead;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+.containt-box-description {
+    color: #323f4b;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: 500;
+}
+
+.containt-box-more {
+    color: #1754a1;
+    font-size: 12px;
+    font-family: Roboto;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: pointer;
+}
